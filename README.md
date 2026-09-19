@@ -1,5 +1,7 @@
 # Agent Lane — put AI agents inside the task list you already have
 
+**Written walkthrough:** [I Put AI Agents Inside My Task List](https://www.qemoza.ai/blog/i-put-ai-agents-inside-my-task-list) on the Qemoza blog.
+
 You have a board. Backlog, this week, doing, done. Add one more lane and call it **AGENT**.
 
 Drop a card in that lane and something else does the work. It reads the task, does the job, and hands it back for you to check.
